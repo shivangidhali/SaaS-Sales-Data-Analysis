@@ -1,4 +1,4 @@
-# SaaS-Sales-Data-Analysis
+# SaaS-Business-Analysis-Project
 ## Project Overview
 This Project ia a complete SaaS business analytics dashboard built using Power BI. The Dashboard analyze customer behavior, subscription revenue, churn trends, customer acquisition performance, and key SaaS KPIs to help businesses make data driven decisions.
 
